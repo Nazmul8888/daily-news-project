@@ -4,6 +4,9 @@ import { initializeApp } from "firebase/app";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
+
+
+
 const firebaseConfig = {
   apiKey: "AIzaSyB6ANMLdmQ3749FlLt8kBkihAt_8OntlZs",
   authDomain: "daily-star-project.firebaseapp.com",
